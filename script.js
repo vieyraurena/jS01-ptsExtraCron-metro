@@ -38,7 +38,7 @@ function clear () {
   contadorHoras = 0;
   contadorMinutos = 0;
   contadorSeconds = 0;
-  crono.innerHTML = `HH: MM: SS:`
+  crono.innerHTML = `00: 00: 00:`
 }
 
 const iniciar = document.getElementById('iniciar');
